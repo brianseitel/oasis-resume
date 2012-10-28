@@ -12,7 +12,7 @@
 </div>
 
 <div class="address">
-	<p>San Francisoc, CA</p>
+	<p>San Franciso, CA</p>
 	<p><a href="http://blog.brianseitel.com">blog.brianseitel.com</a></p>
 </div>
 
