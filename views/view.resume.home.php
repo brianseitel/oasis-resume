@@ -12,13 +12,12 @@
 </div>
 
 <div class="address">
-	<p>21 Clarence Pl, San Francisco, CA 94107</p>
-	<p><a href="http://www.brianseitel.com">www.brianseitel.com</a> (312) 841 8831 (cell)</p>
+	<p>San Francisoc, CA</p>
+	<p><a href="http://blog.brianseitel.com">blog.brianseitel.com</a></p>
 </div>
 
 <div class="about-me paragraph">
 	<h4>About Me</h4>
-	<p>I'm fucking awesome, as the chart below demonstrates.</p>
 	<div id="chart"></div>
 </div>
 
@@ -44,7 +43,8 @@
 	<h4>Experience</h4> 
 	<div class="experience">
 		<div class="meta">
-			<h5>Zillow, Inc. <small>(Formerly RentJuice.com)</small></h5>			
+			<h5>Zillow, Inc. <small>(Formerly RentJuice.com)</small></h5>
+			<a class="website_url" href="http://rentalapp.zillow.com" target="_blank">Website</a>	
 			<p>Senior Web Application Developer</p>
 		</div>
 		<div class="location">
@@ -86,6 +86,46 @@
 				<li>Work closely with designer to create positive and engaging User Experiences</li>
 				<li>Integrate Twitter, Facebook and other social media</li>
 			</ul>
+		</div>
+	</div>
+
+	<div class="experience">
+		<div class="meta">
+			<h5>Forward Market Media <small>(formerly FirstDIBZ)</small></h5>
+			<a class="website_url" href="http://www.forwardmarketmedia.com" target="_blank">Website</a>
+			<p>Front-End Web Developer / Designer</p>
+		</div>
+		<div class="location">
+			<p class="geo">Chicago, Illinois</p>
+			<p class="dates">August 2008 - March 2009</p>
+		</div>
+		<div class="description">
+			<p>Served as front-end developer responsible for designing, maintaining and updating front-end
+user interface.  As part of an Agile development team, worked in iterations of 2 weeks to
+implement new features on a regular basis.  Accomplishments include:</p>
+			<ul>
+				<li>Overhaul of entire front-end user interface in four weeks</li>
+				<li>Upgrade from table-based layouts to semantic, valid HTML</li>
+				<li>Created drop-down search tools to improve accessibility</li>
+				<li>Integrated various 3rd party APIs</li>
+				<li>Played a key role in forming direction of web app growth</li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="experience">
+		<div class="meta">
+			<h5>Trio Media Group</h5>
+			<a class="website_url" href="http://triomediagroup.com/" target="_blank">Website</a>
+			<p>Web Developer</p>
+		</div>
+		<div class="location">
+			<p class="geo">Sandy Springs, GA</p>
+			<p class="dates">April 2008 - August 2008</p>
+		</div>
+		<div class="description">
+			<p>Served as web developer.  Helped build numerous websites for local businesses, including
+restaurants, insulation resellers, and game studios.</p>
 		</div>
 	</div>
 </div>
