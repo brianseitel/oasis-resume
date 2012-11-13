@@ -157,7 +157,18 @@ restaurants, insulation resellers, and game studios.</p>
 	<h4>Endorsements</h4>
 	<div class="reference">
 		<div class="bio">
-			<img src="http://m3.licdn.com/mpr/mpr/shrink_150_150/p/4/000/132/270/3943053.jpg" width="100">
+			<img src="images/jack.jpg" width="100">
+			<br/>
+			<span><strong>Jack Angers</strong><br/>Senior Software Engineer - RentJuice/Zillow</span>
+		</div>
+		<blockquote>
+			<p>He's a pragmatic full-stack engineer that just Gets Stuff Done. On numerous occasions I witnessed him take big time-sensitive feature requests and get them done ahead of schedule. Brian also has writing, presenting, and customer-service skills that are extremely rare for an engineer. I would jump at the chance to work with him again.</p>
+		</blockquote>
+	</div>
+
+	<div class="reference">
+		<div class="bio">
+			<img src="images/missy.jpg" width="100">
 			<br/>
 			<span><strong>Missy Roode</strong><br/>Project Manager - Anthem</span>
 		</div>
@@ -168,7 +179,7 @@ restaurants, insulation resellers, and game studios.</p>
 
 	<div class="reference">
 		<div class="bio">
-			<img src="http://m3.licdn.com/mpr/mpr/shrink_150_150/p/3/000/0f6/1ea/0023522.jpg" width="100"/>
+			<img src="images/shawn.jpg" width="100"/>
 			<br/>
 			<span><strong>Shawn Borsky</strong><br/>CEO - Anthem</span>
 		</div>
@@ -179,9 +190,9 @@ restaurants, insulation resellers, and game studios.</p>
 
 	<div class="reference">
 		<div class="bio">
-			<img src="http://m3.licdn.com/mpr/mpr/shrink_150_150/p/1/000/038/2f1/1e1fbff.jpg" width="100">
+			<img src="images/ivan.jpg" width="100">
 			<br/>
-			<span><strong>Ivan Alfaro</strong><br/>COO - FirstDIBZ</span>
+			<span><strong>Ivan Alfaro</strong><br/>Web Developer - Turner Sports</span>
 		</div>
 		<blockquote>
 			<p>Brian gets it [...] he asks the right questions, knows the web standards, and doesn't procrastinate.</p>
@@ -190,7 +201,7 @@ restaurants, insulation resellers, and game studios.</p>
 
 	<div class="reference">
 		<div class="bio">
-			<img src="http://m4.licdn.com/mpr/mpr/shrink_100_100/p/1/000/027/397/29f2aaa.jpg" width="100">
+			<img src="images/igor.jpg" width="100">
 			<br/>
 			<span><strong>Igor Stoyanov</strong><br/>Senior Developer - FirstDIBZ</span>
 		</div>
