@@ -13,6 +13,7 @@
 
 <div class="address">
 	<p>San Franciso, CA</p>
+	<p>brianseitel@gmail.com</p>
 	<p><a href="http://blog.brianseitel.com">blog.brianseitel.com</a></p>
 </div>
 
