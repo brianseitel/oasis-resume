@@ -39,7 +39,6 @@
 	</ul>
 </div>
 
-
 <div class="experiences">
 	<h4>Experience</h4> 
 	<div class="experience">
@@ -150,6 +149,38 @@ restaurants, insulation resellers, and game studios.</p>
 		<div class="location">
 			<p class="school">Jacksonville State University</p>
 			<p class="other"><em>Jacksonville, AL &nbsp;&nbsp;&nbsp; 2004</em></p>
+		</div>
+	</div>
+</div>
+
+<div class="websites">
+	<h4>Notable Sites I've Built</h4>
+	<div class="website">
+		<div class="thumbnail">
+			<img src="images/wotdb.jpg" width="160" height="120"/>
+			<br/>
+			<span><strong>Wheel of Time Database</strong><br/><a href="http://www.wotdb.com" target="_blank">www.wotdb.com</a>
+		</div>
+	</div>
+	<div class="website">
+		<div class="thumbnail">
+			<img src="images/coffee.jpg" width="160" height="120"/>
+			<br/>
+			<span><strong>Coffee Experiences</strong><br/><a href="http://www.coffeeexperiences.com" target="_blank">www.coffeeexperiences.com</a>
+		</div>
+	</div>
+	<div class="website">
+		<div class="thumbnail">
+			<img src="images/pno.jpg" width="160" height="120"/>
+			<br/>
+			<span><strong>Pinch 'N' Ouch Theatre</strong><br/><a href="http://www.pnotheatre.com" target="_blank">www.pnotheatre.com</a>
+		</div>
+	</div>
+	<div class="website">
+		<div class="thumbnail">
+			<img src="images/finishmyorder.jpg" width="160" height="120"/>
+			<br/>
+			<span><strong>Finish My Order</strong><br/><a href="http://www.finishmyorder.com" target="_blank">www.finishmyorder.com</a>
 		</div>
 	</div>
 </div>

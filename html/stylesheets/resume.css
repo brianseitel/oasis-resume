@@ -50,3 +50,12 @@ h4 { font-size: 18px; padding: 25px 0 5px; margin: 0; font-variant: small-caps; 
 .references .reference .bio img { margin: 10px auto; box-shadow: 1px 1px 5px #666}
 .references .reference .bio span { clear: both; font-size: 14px; font-style: italic;line-height: 1.5; }
 .references .reference .bio span strong { font-size: 16px; font-weight: bold; font-style: normal; }
+
+
+.websites .website { margin-top: 15px; width: 250px; float: left; margin-left: 25px; }
+.websites .website .thumbnail { float: left; width: 200px; text-align: center; }
+.websites .website .thumbnail img { margin: 10px auto; box-shadow: 1px 1px 5px #666}
+.websites .website .thumbnail span { clear: both; font-size: 14px; font-style: italic;line-height: 1.5; }
+.websites .website .thumbnail span strong { font-size: 16px; font-weight: bold; font-style: normal; }
+.websites .website a { color: #252525; }
+.websites .website a:hover { color: #696969; }
