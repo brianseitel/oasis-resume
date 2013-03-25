@@ -55,6 +55,13 @@
 			<p>Lead developer responsible for design implementation for all client work.  Responsible for
 	quality assurance, client satisfaction and clean code.  Other duties and accomplishments
 	include:</p>
+			<ul>
+				<li>Google-like search for apartments</li>
+				<li>Building and maintaining central fraud service across all Zillow rental services</li>
+				<li>Significant destruction of bugs and minor irritations in code structure</li>
+				<li>Automated data import tools</li>
+				<li>Mentoring noobish developers and learning from advanced gurus</li>
+			</ul>
 		</div>
 	</div>
 	<div class="experience">
