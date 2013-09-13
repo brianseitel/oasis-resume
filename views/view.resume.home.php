@@ -4,6 +4,8 @@
 <? Controller::add_include('/javascripts/d3.v2.js'); ?>
 <? Controller::add_include('/javascripts/xkcd.js'); ?>
 <? Controller::add_include('/javascripts/charts.js'); ?>
+<? Controller::add_include('/javascripts/badge.js'); ?>
+<? Controller::add_include('/stylesheets/badge.css'); ?>
 
 <div id="#plt" class="container"></div>
 <div class="title">
@@ -17,6 +19,44 @@
 	<p><a href="http://blog.brianseitel.com">blog.brianseitel.com</a></p>
 </div>
 
+<div id="badge">
+	<div class="clear">
+		<div class="clear" id="user-login">
+			<div id="user-avatar">
+				<a href="https://github.com/brianseitel" target="_parent">
+					<img alt="brianseitel" class="avatar"/>
+				</a>
+			</div>
+			<div id="user-overview">
+				<h1>
+					<a href="https://github.com/brianseitel" target="_parent" title="Brian Seitel">brianseitel</a>
+				</h1>
+				<p>Worked on <a class="recent_project"></a> recently</p>
+			</div>
+		</div>
+		<div id="user-content">
+			<div id="octocat">
+				<div id="user-graph">
+					<div id="sparkline">
+						<img class="commit_sparkline"/>
+					</div>
+				</div>
+				<div id="user-info">
+					<p class="languages"></p>
+					<ul class="clear" id="list-user-info">
+						<li>
+							<p><strong class="repos">11</strong><span> repos</span></p>
+						</li>
+						<li>
+							<p><strong class="forks">4</strong><span> forks</span></p>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
 <div class="about-me paragraph">
 	<h4>About Me</h4>
 	<div id="chart"></div>
@@ -25,17 +65,13 @@
 <div class="technologies lists">
 	<h4>Technologies</h4>
 	<ul>
-		<li>PHP 4 &amp; 5</li>
-		<li>MySQL databases</li>
+		<li>LAMP Stack</li>
 		<li>Javascript/AJAX &amp; jQuery</li>
-		<li>XHTML / HTML5 </li>
-		<li>CSS2 &amp; CSS3</li>
 		<li>Photoshop, Fireworks</li>
 		<li>Subversion, Git, Github</li>
 		<li>Facebook Integration (API, widgets)</li>
 		<li>Twitter Integration (API, widgets)</li>
 		<li>Other 3rd party API Integration</li>
-		<li>LAMP stack environment</li>
 	</ul>
 </div>
 
@@ -43,9 +79,9 @@
 	<h4>Experience</h4> 
 	<div class="experience">
 		<div class="meta">
-			<h5>Zillow, Inc. <small>(Formerly RentJuice.com)</small></h5>
+			<h5>Zillow, Inc. <small>(aqcuired from RentJuice.com)</small></h5>
 			<a class="website_url" href="http://rentalapp.zillow.com" target="_blank">Website</a>	
-			<p>Senior Web Application Developer</p>
+			<p>Senior Software Engineer</p>
 		</div>
 		<div class="location">
 			<p class="geo">San Francisco, CA</p>
@@ -58,6 +94,7 @@
 			<ul>
 				<li>Google-like search for apartments</li>
 				<li>Building and maintaining central fraud service across all Zillow rental services</li>
+				<li>Build internal APIs for use across all Zillow services</li>
 				<li>Significant destruction of bugs and minor irritations in code structure</li>
 				<li>Automated data import tools</li>
 				<li>Mentoring noobish developers and learning from advanced gurus</li>
@@ -80,9 +117,9 @@
 			<div class="successful">
 				<p>Successful projects include:</p>
 				<ul>
-					<li>Fulton County Republican Party (www.fultongop.org)</li>
-					<li>Frankly Speaking Music (www.franklyspeakingmusic.com)</li>
-					<li>Cosmic Deli (www.thecosmicdeli.com)</li>
+					<li>Fulton County Republican Party (<a href="http://www.fultongop.org" target="_blank">www.fultongop.org</a>)</li>
+					<li>Frankly Speaking Music (<a href="http://www.franklyspeakingmusic.com" target="_blank">www.franklyspeakingmusic.com</a>)</li>
+					<li>Cosmic Deli (<a href="http://www.thecosmicdeli.com" target="_blank">www.thecosmicdeli.com</a>)</li>
 				</ul>
 			</div>
 

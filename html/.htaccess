@@ -5,4 +5,4 @@ RewriteEngine on
 AddType application/x-xpinstall .xpi
 
 RewriteRule ^(/)?$ index.php?controller=resume&view=home [NC,L]
-RewriteRule ^test/([a-zA-Z0-9]+)(/)?$ index.php?controller=test&view=$1 [NC,L,QSA]
+RewriteRule ^test/([a-zA-Z0-9]+)(/)?$ index.php?controller=test&view=$1&layout=clean [NC,L,QSA]
